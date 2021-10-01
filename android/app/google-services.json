@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610685203018",
+    "project_id": "fan-page-app-f0bff",
+    "storage_bucket": "fan-page-app-f0bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610685203018:android:e6cabb9ca02bc8bf406cb3",
+        "android_client_info": {
+          "package_name": "com.creationdriven.aotfanpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610685203018-45q39dcad8e3p7f8gduvrmlgqckfibse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfIR_k8XbD91D-6CxM4U6gR-aeGpRIN68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610685203018-45q39dcad8e3p7f8gduvrmlgqckfibse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

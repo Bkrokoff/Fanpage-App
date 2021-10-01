@@ -8,14 +8,14 @@ import 'package:flutter/material.dart';
 
 import 'model/user_model.dart';
 
-class MyHomePage extends StatefulWidget {
-  MyHomePage({Key? key, required this.title}) : super(key: key);
+class adminHomePage extends StatefulWidget {
+  adminHomePage({Key? key, required this.title}) : super(key: key);
   final String title;
   @override
-  _MyHomePageState createState() => _MyHomePageState();
+  _adminHomePageState createState() => _adminHomePageState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class _adminHomePageState extends State<adminHomePage> {
   
   verifyPopUp(BuildContext context) {
     return showDialog(context: context, builder: (context) {
@@ -48,14 +48,6 @@ class _MyHomePageState extends State<MyHomePage> {
             },
           ),
         ),
-      
-       floatingActionButton: FloatingActionButton(
-         onPressed: () {
-          Navigator.push(context, MaterialPageRoute(builder: (context) => MakePost()));
-         },
-         child: Icon(Icons.add),
-       ), 
-      
     );
     
   }
