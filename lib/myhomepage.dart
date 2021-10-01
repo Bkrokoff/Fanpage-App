@@ -16,6 +16,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+<<<<<<< HEAD
   
   verifyPopUp(BuildContext context) {
     return showDialog(context: context, builder: (context) {
@@ -33,6 +34,8 @@ class _MyHomePageState extends State<MyHomePage> {
       );
     });
   }
+=======
+>>>>>>> 46cffc2ef312b1cfe99b3bb19cf08a59bfdf57dd
 
   final db = FirebaseFirestore.instance;
   @override

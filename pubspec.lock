@@ -78,6 +78,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.0"
+<<<<<<< HEAD
   firebase_auth:
     dependency: "direct main"
     description:
@@ -99,6 +100,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.0"
+=======
+>>>>>>> 46cffc2ef312b1cfe99b3bb19cf08a59bfdf57dd
   firebase_core:
     dependency: "direct main"
     description:
@@ -135,6 +138,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
   fluttertoast:
     dependency: "direct main"
     description:
@@ -156,6 +160,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.17.0"
+=======
+>>>>>>> 46cffc2ef312b1cfe99b3bb19cf08a59bfdf57dd
   js:
     dependency: transitive
     description:
